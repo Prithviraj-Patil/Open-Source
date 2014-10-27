@@ -94,8 +94,6 @@ public class ArrayHopper {
 
 	public static void main(String[] args) {
 
-		// 5 6 0 4 2 4 1 0 0 4
-
 		ArrayList<Integer> InputArrayList = NumberExtractor();
 		ArrayList<Integer> OutputArrayList = null;
 
